@@ -54,9 +54,7 @@ sudo python auto_enum.py
 ```
 
 ## Video
+## Video
 
-<video width="560" height="315" controls autoplay>
-    <source src="Assets/Recording.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[Download and Watch the Demo Video](Assets/Recording.mp4)
 
