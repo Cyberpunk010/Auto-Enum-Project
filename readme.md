@@ -56,5 +56,5 @@ sudo python auto_enum.py
 ## Video
 ## Video
 
-[Download and Watch the Demo Video](Assets/Recording.mp4)
+[Download and Watch the Demo Video](Assets/Recording_orig.mp4)
 
