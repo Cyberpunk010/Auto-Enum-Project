@@ -1,0 +1,7 @@
+# Required libraries for the AutoEnum project
+socket          
+subprocess      
+python-whois     
+requests         
+pyfiglet        
+termcolor        
