@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/autoenum.git
+git clone https://github.com/Cyberpunk010/Auto-Enum-Project.git
 cd autoenum
 ```
 Install the required dependencies:
